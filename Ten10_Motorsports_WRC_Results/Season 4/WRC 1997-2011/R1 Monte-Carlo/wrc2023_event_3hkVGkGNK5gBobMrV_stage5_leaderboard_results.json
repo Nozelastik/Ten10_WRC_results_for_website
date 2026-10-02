@@ -1,0 +1,382 @@
+[
+  {
+    "Rank":1,
+    "DisplayName":"GTI_1990",
+    "Vehicle":"SEAT Córdoba WRC",
+    "Time":"00:05:08.7610000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:00",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":2,
+    "DisplayName":"StoryVS_TTV",
+    "Vehicle":"Ford Focus RS Rally 2001",
+    "Time":"00:05:10.1680000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:01.4070000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":3,
+    "DisplayName":"taxi615",
+    "Vehicle":"Citroën Xsara WRC",
+    "Time":"00:05:15.3210000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:06.5600000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":4,
+    "DisplayName":"Horizontos",
+    "Vehicle":"Citroën Xsara WRC",
+    "Time":"00:05:16.8860000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:08.1250000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":5,
+    "DisplayName":"butlerbee3",
+    "Vehicle":"ŠKODA Fabia WRC",
+    "Time":"00:05:18.3370000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:09.5760000",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":6,
+    "DisplayName":"Simonayy66",
+    "Vehicle":"SUBARU Impreza 2001",
+    "Time":"00:05:19.5710000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:10.8100000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":7,
+    "DisplayName":"speeedhunterr",
+    "Vehicle":"SUBARU Impreza 2001",
+    "Time":"00:05:23.3500000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:14.5890000",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":8,
+    "DisplayName":"RacutPiotr",
+    "Vehicle":"Peugeot 206 Rally",
+    "Time":"00:05:24.5580000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:15.7970000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":9,
+    "DisplayName":"WRC Player",
+    "Vehicle":"SEAT Córdoba WRC",
+    "Time":"00:05:25.7900000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:17.0290000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":10,
+    "DisplayName":"xxReaven",
+    "Vehicle":"Ford Focus RS Rally 2001",
+    "Time":"00:05:26.3460000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:17.5850000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":11,
+    "DisplayName":"dannyram2025",
+    "Vehicle":"SUBARU Impreza 2001",
+    "Time":"00:05:29.0560000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:20.2950000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":12,
+    "DisplayName":"Colesy3456",
+    "Vehicle":"Citroën Xsara WRC",
+    "Time":"00:05:29.8070000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:21.0460000",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":13,
+    "DisplayName":"WestQuma",
+    "Vehicle":"Peugeot 206 Rally",
+    "Time":"00:05:30.9520000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:22.1910000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":14,
+    "DisplayName":"Flinnowaty",
+    "Vehicle":"Peugeot 206 Rally",
+    "Time":"00:05:32.0180000",
+    "TimePenalty":"00:00:10",
+    "DifferenceToFirst":"00:00:23.2570000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":15,
+    "DisplayName":"Schram45",
+    "Vehicle":"Citroën Xsara WRC",
+    "Time":"00:05:35.4280000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:26.6670000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":16,
+    "DisplayName":"Motsky",
+    "Vehicle":"SEAT Córdoba WRC",
+    "Time":"00:05:35.6810000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:26.9200000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":17,
+    "DisplayName":"Kip_Duncle",
+    "Vehicle":"Ford Focus RS Rally 2001",
+    "Time":"00:05:40.6530000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:31.8920000",
+    "Platform":"EA",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":18,
+    "DisplayName":"nwsmith89",
+    "Vehicle":"SEAT Córdoba WRC",
+    "Time":"00:05:41.5310000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:32.7700000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":19,
+    "DisplayName":"Prest45",
+    "Vehicle":"ŠKODA Fabia WRC",
+    "Time":"00:05:42.8340000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:34.0730000",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":20,
+    "DisplayName":"stenbough",
+    "Vehicle":"Ford Focus RS Rally 2001",
+    "Time":"00:05:44.1850000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:35.4240000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":21,
+    "DisplayName":"novagsi20",
+    "Vehicle":"Peugeot 206 Rally",
+    "Time":"00:05:47.4520000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:38.6910000",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":22,
+    "DisplayName":"REDVENGENCE3",
+    "Vehicle":"Citroën Xsara WRC",
+    "Time":"00:05:53.2070000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:44.4460000",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":23,
+    "DisplayName":"McToasty17",
+    "Vehicle":"Ford Focus RS Rally 2001",
+    "Time":"00:05:54.6840000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:45.9230000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":24,
+    "DisplayName":"Abandon1445",
+    "Vehicle":"ŠKODA Fabia WRC",
+    "Time":"00:05:59.7070000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:50.9460000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":25,
+    "DisplayName":"j0shM52",
+    "Vehicle":"SUBARU Impreza 2001",
+    "Time":"00:06:03.0640000",
+    "TimePenalty":"00:00:05",
+    "DifferenceToFirst":"00:00:54.3030000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":26,
+    "DisplayName":"ChildishGavino43",
+    "Vehicle":"SUBARU Impreza 2001",
+    "Time":"00:06:17.6130000",
+    "TimePenalty":"00:00:15",
+    "DifferenceToFirst":"00:01:08.8520000",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":27,
+    "DisplayName":"SirHames93",
+    "Vehicle":"SUBARU Impreza 2001",
+    "Time":"00:06:50.9500000",
+    "TimePenalty":"00:00:32",
+    "DifferenceToFirst":"00:01:42.1890000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":28,
+    "DisplayName":"QuadCarrot74005",
+    "Vehicle":"SEAT Córdoba WRC",
+    "Time":"00:06:53.3130000",
+    "TimePenalty":"00:00:14",
+    "DifferenceToFirst":"00:01:44.5520000",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":29,
+    "DisplayName":"Jdubya814",
+    "Vehicle":"ŠKODA Fabia WRC",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:10:51.2390000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":30,
+    "DisplayName":"SHEIKHGOTSPEED",
+    "Vehicle":"Citroën Xsara WRC",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:10:51.2390000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":31,
+    "DisplayName":"robriv22",
+    "Vehicle":"ŠKODA Fabia WRC",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:10:51.2390000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":32,
+    "DisplayName":"acollador98",
+    "Vehicle":"SEAT Córdoba WRC",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:10:51.2390000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":33,
+    "DisplayName":"mk6pinnock",
+    "Vehicle":"ŠKODA Fabia WRC",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:10:51.2390000",
+    "Platform":"EA",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":34,
+    "DisplayName":"anamayarawa",
+    "Vehicle":"SEAT Córdoba WRC",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:10:51.2390000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":35,
+    "DisplayName":"Macaroni-DogYT",
+    "Vehicle":"Peugeot 206 Rally",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:10:51.2390000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":36,
+    "DisplayName":"juankaMostWanted",
+    "Vehicle":"Peugeot 206 Rally",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:10:51.2390000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":37,
+    "DisplayName":"Dowgzilla",
+    "Vehicle":"Ford Focus RS Rally 2001",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:10:51.2390000",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":38,
+    "DisplayName":"Cefa217",
+    "Vehicle":"ŠKODA Fabia WRC",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:10:51.2390000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  }
+]

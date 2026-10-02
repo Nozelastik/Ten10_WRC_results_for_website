@@ -1,0 +1,52 @@
+[
+  {
+    "Rank":1,
+    "DisplayName":"RacutPiotr",
+    "Vehicle":"Renault Clio S1600",
+    "Time":"00:05:23.8370000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:00",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":2,
+    "DisplayName":"Aciryx",
+    "Vehicle":"Ford Puma S1600",
+    "Time":"00:05:27.6380000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:03.8010000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":3,
+    "DisplayName":"mr-djax",
+    "Vehicle":"Peugeot 206 S1600",
+    "Time":"00:05:53.4920000",
+    "TimePenalty":"00:00:06",
+    "DifferenceToFirst":"00:00:29.6550000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":4,
+    "DisplayName":"Motsky",
+    "Vehicle":"Renault Clio S1600",
+    "Time":"00:06:23.1570000",
+    "TimePenalty":"00:00:17",
+    "DifferenceToFirst":"00:00:59.3200000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":5,
+    "DisplayName":"zepy362",
+    "Vehicle":"Renault Clio S1600",
+    "Time":"00:08:00",
+    "TimePenalty":"00:08:00",
+    "DifferenceToFirst":"00:02:36.1630000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  }
+]

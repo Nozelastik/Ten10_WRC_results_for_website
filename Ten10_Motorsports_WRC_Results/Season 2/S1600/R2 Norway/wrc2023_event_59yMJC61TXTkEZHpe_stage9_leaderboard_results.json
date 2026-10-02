@@ -1,0 +1,102 @@
+[
+  {
+    "Rank":1,
+    "DisplayName":"Aciryx",
+    "Vehicle":"Ford Puma S1600",
+    "Time":"00:03:25.2530000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:00",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":2,
+    "DisplayName":"MW-08_Jewels",
+    "Vehicle":"Ford Puma S1600",
+    "Time":"00:03:26.3290000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:01.0760000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":3,
+    "DisplayName":"Motsky",
+    "Vehicle":"Renault Clio S1600",
+    "Time":"00:03:29.5940000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:04.3410000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":4,
+    "DisplayName":"Jayzedyy",
+    "Vehicle":"Citroën C2 Super 1600",
+    "Time":"00:03:33.9020000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:08.6490000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":5,
+    "DisplayName":"stenbough",
+    "Vehicle":"Renault Clio S1600",
+    "Time":"00:03:36.5320000",
+    "TimePenalty":"00:00:05",
+    "DifferenceToFirst":"00:00:11.2790000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":6,
+    "DisplayName":"ppoole828",
+    "Vehicle":"Citroën C2 Super 1600",
+    "Time":"00:03:39.1560000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:13.9030000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":7,
+    "DisplayName":"Yourlocalgrocer8",
+    "Vehicle":"Citroën C2 Super 1600",
+    "Time":"00:04:06.7890000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:41.5360000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":8,
+    "DisplayName":"verguld",
+    "Vehicle":"Ford Puma S1600",
+    "Time":"00:04:12.7550000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:47.5020000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":9,
+    "DisplayName":"Bship78",
+    "Vehicle":"Citroën C2 Super 1600",
+    "Time":"00:08:00",
+    "TimePenalty":"00:08:00",
+    "DifferenceToFirst":"00:04:34.7470000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":10,
+    "DisplayName":"McToasty17",
+    "Vehicle":"Peugeot 206 S1600",
+    "Time":"00:08:00",
+    "TimePenalty":"00:08:00",
+    "DifferenceToFirst":"00:04:34.7470000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  }
+]

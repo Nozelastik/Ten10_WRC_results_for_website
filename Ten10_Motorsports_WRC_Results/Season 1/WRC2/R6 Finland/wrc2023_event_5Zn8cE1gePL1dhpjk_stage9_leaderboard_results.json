@@ -1,0 +1,122 @@
+[
+  {
+    "Rank":1,
+    "DisplayName":"Aciryx",
+    "Vehicle":"Volkswagen Polo GTI R5",
+    "Time":"00:05:48.9450000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:00",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":2,
+    "DisplayName":"Bship78",
+    "Vehicle":"Hyundai i20 N Rally2",
+    "Time":"00:06:11.7480000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:22.8030000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":3,
+    "DisplayName":"verguld",
+    "Vehicle":"Volkswagen Polo GTI R5",
+    "Time":"00:06:18.5950000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:29.6500000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":4,
+    "DisplayName":"Lukefubar",
+    "Vehicle":"Ford Fiesta Rally2",
+    "Time":"00:06:20.1430000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:31.1980000",
+    "Platform":"EA",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":5,
+    "DisplayName":"Motsky",
+    "Vehicle":"ŠKODA Fabia Rally2 Evo",
+    "Time":"00:06:29.9200000",
+    "TimePenalty":"00:00:05",
+    "DifferenceToFirst":"00:00:40.9750000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":6,
+    "DisplayName":"ppoole828",
+    "Vehicle":"Citroën C3 Rally2",
+    "Time":"00:06:42.3810000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:53.4360000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":7,
+    "DisplayName":"stenbough",
+    "Vehicle":"Ford Fiesta Rally2",
+    "Time":"00:06:56.7990000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:01:07.8540000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":8,
+    "DisplayName":"McToasty17",
+    "Vehicle":"Volkswagen Polo GTI R5",
+    "Time":"00:07:30.9990000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:01:42.0540000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":9,
+    "DisplayName":"lil-jacob221",
+    "Vehicle":"Volkswagen Polo GTI R5",
+    "Time":"00:08:02.4420000",
+    "TimePenalty":"00:00:05",
+    "DifferenceToFirst":"00:02:13.4970000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":10,
+    "DisplayName":"zepy362",
+    "Vehicle":"Hyundai i20 N Rally2",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:10:11.0550000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":11,
+    "DisplayName":"Yourlocalgrocer8",
+    "Vehicle":"Hyundai i20 N Rally2",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:10:11.0550000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":12,
+    "DisplayName":"LAMBKING4",
+    "Vehicle":"ŠKODA Fabia Rally2 Evo",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:10:11.0550000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  }
+]

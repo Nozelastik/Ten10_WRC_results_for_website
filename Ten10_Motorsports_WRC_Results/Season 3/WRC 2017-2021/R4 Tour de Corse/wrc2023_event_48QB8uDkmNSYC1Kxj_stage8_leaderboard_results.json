@@ -1,0 +1,122 @@
+[
+  {
+    "Rank":1,
+    "DisplayName":"xxReaven",
+    "Vehicle":"Citroën C3 WRC",
+    "Time":"00:03:43.4800000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:00",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":2,
+    "DisplayName":"SHEIKHGOTSPEED",
+    "Vehicle":"Citroën C3 WRC",
+    "Time":"00:03:47.2880000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:03.8080000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":3,
+    "DisplayName":"zepy362",
+    "Vehicle":"Ford Fiesta WRC",
+    "Time":"00:04:00.6200000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:17.1400000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":4,
+    "DisplayName":"SirDracuIa",
+    "Vehicle":"Volkswagen Polo 2017",
+    "Time":"00:04:01.1650000",
+    "TimePenalty":"00:00:05",
+    "DifferenceToFirst":"00:00:17.6850000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":5,
+    "DisplayName":"YotesFan79",
+    "Vehicle":"Ford Fiesta WRC",
+    "Time":"00:04:10.0290000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:26.5490000",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":6,
+    "DisplayName":"dannyram2025",
+    "Vehicle":"Ford Fiesta WRC",
+    "Time":"00:04:13.0770000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:29.5970000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":7,
+    "DisplayName":"Motsky",
+    "Vehicle":"Ford Fiesta WRC",
+    "Time":"00:04:52.0400000",
+    "TimePenalty":"00:00:25",
+    "DifferenceToFirst":"00:01:08.5600000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":8,
+    "DisplayName":"Abandon1445",
+    "Vehicle":"Ford Fiesta WRC",
+    "Time":"00:04:54.3330000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:01:10.8530000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":9,
+    "DisplayName":"speeedhunterr",
+    "Vehicle":"Citroën C3 WRC",
+    "Time":"00:04:55.9600000",
+    "TimePenalty":"00:00:05",
+    "DifferenceToFirst":"00:01:12.4800000",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":10,
+    "DisplayName":"MW-08_Jewels",
+    "Vehicle":"Hyundai i20 Coupe WRC '21",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:12:16.5200000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":11,
+    "DisplayName":"Jayzedyy",
+    "Vehicle":"Volkswagen Polo 2017",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:12:16.5200000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":12,
+    "DisplayName":"Aciryx",
+    "Vehicle":"Hyundai i20 Coupe WRC '21",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:12:16.5200000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  }
+]
