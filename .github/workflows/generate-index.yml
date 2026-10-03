@@ -1,10 +1,6 @@
-name: Auto-Generate Results Index
+name: Generate Results Index
 
 on:
-  push:
-    paths:
-      - 'Ten10_Motorsports_WRC_Results/**'
-
   workflow_dispatch:
 
 permissions:
@@ -31,23 +27,17 @@ jobs:
 
           function buildTree(dir) {
             const result = {};
-
-            const entries = fs.readdirSync(dir, {
-              withFileTypes: true
-            });
+            const entries = fs.readdirSync(dir, { withFileTypes: true });
 
             entries.forEach(entry => {
-              const name = entry.name;
+              if (entry.name === 'index.json') return;
 
-              // Never include the generated index inside itself
-              if (name === 'index.json') return;
-
-              const fullPath = path.join(dir, name);
+              const fullPath = path.join(dir, entry.name);
 
               if (entry.isDirectory()) {
-                result[name] = buildTree(fullPath);
-              } else if (name.toLowerCase().endsWith('.json')) {
-                result[name] = name;
+                result[entry.name] = buildTree(fullPath);
+              } else if (entry.name.toLowerCase().endsWith('.json')) {
+                result[entry.name] = entry.name;
               }
             });
 
@@ -66,21 +56,13 @@ jobs:
             'utf8'
           );
 
-          console.log('Generated:', indexFile);
           console.log(JSON.stringify(tree, null, 2));
           NODE
-
-      - name: Show Generated Index
-        run: |
-          echo "===== index.json ====="
-          cat ./Ten10_Motorsports_WRC_Results/index.json
-          echo "======================"
 
       - name: Commit and Push Index
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add Ten10_Motorsports_WRC_Results/index.json
 
           if git diff --cached --quiet; then
@@ -88,5 +70,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Update results index [skip ci]"
+          git commit -m "Update results index"
           git push
