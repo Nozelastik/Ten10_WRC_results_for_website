@@ -1,0 +1,397 @@
+{
+  "Season 1": {
+    "WRC2": {
+      "R1 Monte-Carlo": {
+        "wrc2023_event_5nbbKujqJQkXCWyf3_stage10_leaderboard_results.json": "wrc2023_event_5nbbKujqJQkXCWyf3_stage10_leaderboard_results.json",
+        "wrc2023_event_5nbbKujqJQkXCWyf3_stage1_leaderboard_results.json": "wrc2023_event_5nbbKujqJQkXCWyf3_stage1_leaderboard_results.json",
+        "wrc2023_event_5nbbKujqJQkXCWyf3_stage2_leaderboard_results.json": "wrc2023_event_5nbbKujqJQkXCWyf3_stage2_leaderboard_results.json",
+        "wrc2023_event_5nbbKujqJQkXCWyf3_stage3_leaderboard_results.json": "wrc2023_event_5nbbKujqJQkXCWyf3_stage3_leaderboard_results.json",
+        "wrc2023_event_5nbbKujqJQkXCWyf3_stage4_leaderboard_results.json": "wrc2023_event_5nbbKujqJQkXCWyf3_stage4_leaderboard_results.json",
+        "wrc2023_event_5nbbKujqJQkXCWyf3_stage5_leaderboard_results.json": "wrc2023_event_5nbbKujqJQkXCWyf3_stage5_leaderboard_results.json",
+        "wrc2023_event_5nbbKujqJQkXCWyf3_stage6_leaderboard_results.json": "wrc2023_event_5nbbKujqJQkXCWyf3_stage6_leaderboard_results.json",
+        "wrc2023_event_5nbbKujqJQkXCWyf3_stage7_leaderboard_results.json": "wrc2023_event_5nbbKujqJQkXCWyf3_stage7_leaderboard_results.json",
+        "wrc2023_event_5nbbKujqJQkXCWyf3_stage8_leaderboard_results.json": "wrc2023_event_5nbbKujqJQkXCWyf3_stage8_leaderboard_results.json",
+        "wrc2023_event_5nbbKujqJQkXCWyf3_stage9_leaderboard_results.json": "wrc2023_event_5nbbKujqJQkXCWyf3_stage9_leaderboard_results.json"
+      },
+      "R2 Sweden": {
+        "wrc2023_event_2u2KF16WGcmkvZT8_stage10_leaderboard_results.json": "wrc2023_event_2u2KF16WGcmkvZT8_stage10_leaderboard_results.json",
+        "wrc2023_event_2u2KF16WGcmkvZT8_stage1_leaderboard_results.json": "wrc2023_event_2u2KF16WGcmkvZT8_stage1_leaderboard_results.json",
+        "wrc2023_event_2u2KF16WGcmkvZT8_stage2_leaderboard_results.json": "wrc2023_event_2u2KF16WGcmkvZT8_stage2_leaderboard_results.json",
+        "wrc2023_event_2u2KF16WGcmkvZT8_stage3_leaderboard_results.json": "wrc2023_event_2u2KF16WGcmkvZT8_stage3_leaderboard_results.json",
+        "wrc2023_event_2u2KF16WGcmkvZT8_stage4_leaderboard_results.json": "wrc2023_event_2u2KF16WGcmkvZT8_stage4_leaderboard_results.json",
+        "wrc2023_event_2u2KF16WGcmkvZT8_stage5_leaderboard_results.json": "wrc2023_event_2u2KF16WGcmkvZT8_stage5_leaderboard_results.json",
+        "wrc2023_event_2u2KF16WGcmkvZT8_stage6_leaderboard_results.json": "wrc2023_event_2u2KF16WGcmkvZT8_stage6_leaderboard_results.json",
+        "wrc2023_event_2u2KF16WGcmkvZT8_stage7_leaderboard_results.json": "wrc2023_event_2u2KF16WGcmkvZT8_stage7_leaderboard_results.json",
+        "wrc2023_event_2u2KF16WGcmkvZT8_stage8_leaderboard_results.json": "wrc2023_event_2u2KF16WGcmkvZT8_stage8_leaderboard_results.json",
+        "wrc2023_event_2u2KF16WGcmkvZT8_stage9_leaderboard_results.json": "wrc2023_event_2u2KF16WGcmkvZT8_stage9_leaderboard_results.json"
+      },
+      "R3 Mexico": {
+        "wrc2023_event_41KxJhZM3fwiDaWYM_stage10_leaderboard_results.json": "wrc2023_event_41KxJhZM3fwiDaWYM_stage10_leaderboard_results.json",
+        "wrc2023_event_41KxJhZM3fwiDaWYM_stage1_leaderboard_results.json": "wrc2023_event_41KxJhZM3fwiDaWYM_stage1_leaderboard_results.json",
+        "wrc2023_event_41KxJhZM3fwiDaWYM_stage2_leaderboard_results.json": "wrc2023_event_41KxJhZM3fwiDaWYM_stage2_leaderboard_results.json",
+        "wrc2023_event_41KxJhZM3fwiDaWYM_stage3_leaderboard_results.json": "wrc2023_event_41KxJhZM3fwiDaWYM_stage3_leaderboard_results.json",
+        "wrc2023_event_41KxJhZM3fwiDaWYM_stage4_leaderboard_results.json": "wrc2023_event_41KxJhZM3fwiDaWYM_stage4_leaderboard_results.json",
+        "wrc2023_event_41KxJhZM3fwiDaWYM_stage5_leaderboard_results.json": "wrc2023_event_41KxJhZM3fwiDaWYM_stage5_leaderboard_results.json",
+        "wrc2023_event_41KxJhZM3fwiDaWYM_stage6_leaderboard_results.json": "wrc2023_event_41KxJhZM3fwiDaWYM_stage6_leaderboard_results.json",
+        "wrc2023_event_41KxJhZM3fwiDaWYM_stage7_leaderboard_results.json": "wrc2023_event_41KxJhZM3fwiDaWYM_stage7_leaderboard_results.json",
+        "wrc2023_event_41KxJhZM3fwiDaWYM_stage8_leaderboard_results.json": "wrc2023_event_41KxJhZM3fwiDaWYM_stage8_leaderboard_results.json",
+        "wrc2023_event_41KxJhZM3fwiDaWYM_stage9_leaderboard_results.json": "wrc2023_event_41KxJhZM3fwiDaWYM_stage9_leaderboard_results.json"
+      },
+      "R4 Tour de Corse": {
+        "wrc2023_event_31HjbzrQdxK8q8YJS_stage10_leaderboard_results.json": "wrc2023_event_31HjbzrQdxK8q8YJS_stage10_leaderboard_results.json",
+        "wrc2023_event_31HjbzrQdxK8q8YJS_stage1_leaderboard_results.json": "wrc2023_event_31HjbzrQdxK8q8YJS_stage1_leaderboard_results.json",
+        "wrc2023_event_31HjbzrQdxK8q8YJS_stage2_leaderboard_results.json": "wrc2023_event_31HjbzrQdxK8q8YJS_stage2_leaderboard_results.json",
+        "wrc2023_event_31HjbzrQdxK8q8YJS_stage3_leaderboard_results.json": "wrc2023_event_31HjbzrQdxK8q8YJS_stage3_leaderboard_results.json",
+        "wrc2023_event_31HjbzrQdxK8q8YJS_stage4_leaderboard_results.json": "wrc2023_event_31HjbzrQdxK8q8YJS_stage4_leaderboard_results.json",
+        "wrc2023_event_31HjbzrQdxK8q8YJS_stage5_leaderboard_results.json": "wrc2023_event_31HjbzrQdxK8q8YJS_stage5_leaderboard_results.json",
+        "wrc2023_event_31HjbzrQdxK8q8YJS_stage6_leaderboard_results.json": "wrc2023_event_31HjbzrQdxK8q8YJS_stage6_leaderboard_results.json",
+        "wrc2023_event_31HjbzrQdxK8q8YJS_stage7_leaderboard_results.json": "wrc2023_event_31HjbzrQdxK8q8YJS_stage7_leaderboard_results.json",
+        "wrc2023_event_31HjbzrQdxK8q8YJS_stage8_leaderboard_results.json": "wrc2023_event_31HjbzrQdxK8q8YJS_stage8_leaderboard_results.json",
+        "wrc2023_event_31HjbzrQdxK8q8YJS_stage9_leaderboard_results.json": "wrc2023_event_31HjbzrQdxK8q8YJS_stage9_leaderboard_results.json"
+      },
+      "R5 Portugal": {
+        "wrc2023_event_JjzvcSCdwkFBYBKj_stage10_leaderboard_results.json": "wrc2023_event_JjzvcSCdwkFBYBKj_stage10_leaderboard_results.json",
+        "wrc2023_event_JjzvcSCdwkFBYBKj_stage1_leaderboard_results.json": "wrc2023_event_JjzvcSCdwkFBYBKj_stage1_leaderboard_results.json",
+        "wrc2023_event_JjzvcSCdwkFBYBKj_stage2_leaderboard_results.json": "wrc2023_event_JjzvcSCdwkFBYBKj_stage2_leaderboard_results.json",
+        "wrc2023_event_JjzvcSCdwkFBYBKj_stage3_leaderboard_results.json": "wrc2023_event_JjzvcSCdwkFBYBKj_stage3_leaderboard_results.json",
+        "wrc2023_event_JjzvcSCdwkFBYBKj_stage4_leaderboard_results.json": "wrc2023_event_JjzvcSCdwkFBYBKj_stage4_leaderboard_results.json",
+        "wrc2023_event_JjzvcSCdwkFBYBKj_stage5_leaderboard_results.json": "wrc2023_event_JjzvcSCdwkFBYBKj_stage5_leaderboard_results.json",
+        "wrc2023_event_JjzvcSCdwkFBYBKj_stage6_leaderboard_results.json": "wrc2023_event_JjzvcSCdwkFBYBKj_stage6_leaderboard_results.json",
+        "wrc2023_event_JjzvcSCdwkFBYBKj_stage7_leaderboard_results.json": "wrc2023_event_JjzvcSCdwkFBYBKj_stage7_leaderboard_results.json",
+        "wrc2023_event_JjzvcSCdwkFBYBKj_stage8_leaderboard_results.json": "wrc2023_event_JjzvcSCdwkFBYBKj_stage8_leaderboard_results.json",
+        "wrc2023_event_JjzvcSCdwkFBYBKj_stage9_leaderboard_results.json": "wrc2023_event_JjzvcSCdwkFBYBKj_stage9_leaderboard_results.json"
+      },
+      "R6 Finland": {
+        "wrc2023_event_5Zn8cE1gePL1dhpjk_stage10_leaderboard_results.json": "wrc2023_event_5Zn8cE1gePL1dhpjk_stage10_leaderboard_results.json",
+        "wrc2023_event_5Zn8cE1gePL1dhpjk_stage1_leaderboard_results.json": "wrc2023_event_5Zn8cE1gePL1dhpjk_stage1_leaderboard_results.json",
+        "wrc2023_event_5Zn8cE1gePL1dhpjk_stage2_leaderboard_results.json": "wrc2023_event_5Zn8cE1gePL1dhpjk_stage2_leaderboard_results.json",
+        "wrc2023_event_5Zn8cE1gePL1dhpjk_stage3_leaderboard_results.json": "wrc2023_event_5Zn8cE1gePL1dhpjk_stage3_leaderboard_results.json",
+        "wrc2023_event_5Zn8cE1gePL1dhpjk_stage4_leaderboard_results.json": "wrc2023_event_5Zn8cE1gePL1dhpjk_stage4_leaderboard_results.json",
+        "wrc2023_event_5Zn8cE1gePL1dhpjk_stage5_leaderboard_results.json": "wrc2023_event_5Zn8cE1gePL1dhpjk_stage5_leaderboard_results.json",
+        "wrc2023_event_5Zn8cE1gePL1dhpjk_stage6_leaderboard_results.json": "wrc2023_event_5Zn8cE1gePL1dhpjk_stage6_leaderboard_results.json",
+        "wrc2023_event_5Zn8cE1gePL1dhpjk_stage7_leaderboard_results.json": "wrc2023_event_5Zn8cE1gePL1dhpjk_stage7_leaderboard_results.json",
+        "wrc2023_event_5Zn8cE1gePL1dhpjk_stage8_leaderboard_results.json": "wrc2023_event_5Zn8cE1gePL1dhpjk_stage8_leaderboard_results.json",
+        "wrc2023_event_5Zn8cE1gePL1dhpjk_stage9_leaderboard_results.json": "wrc2023_event_5Zn8cE1gePL1dhpjk_stage9_leaderboard_results.json"
+      },
+      "R7 Central Europe": {
+        "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage10_leaderboard_results.json": "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage10_leaderboard_results.json",
+        "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage1_leaderboard_results.json": "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage1_leaderboard_results.json",
+        "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage2_leaderboard_results.json": "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage2_leaderboard_results.json",
+        "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage3_leaderboard_results.json": "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage3_leaderboard_results.json",
+        "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage4_leaderboard_results.json": "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage4_leaderboard_results.json",
+        "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage5_leaderboard_results.json": "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage5_leaderboard_results.json",
+        "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage6_leaderboard_results.json": "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage6_leaderboard_results.json",
+        "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage7_leaderboard_results.json": "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage7_leaderboard_results.json",
+        "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage8_leaderboard_results.json": "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage8_leaderboard_results.json",
+        "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage9_leaderboard_results.json": "wrc2023_event_Gw1LPAFdy9yh9Ntj_stage9_leaderboard_results.json"
+      },
+      "R8 Spain": {
+        "wrc2023_event_wLMCc2Vp1PncE55G_stage10_leaderboard_results.json": "wrc2023_event_wLMCc2Vp1PncE55G_stage10_leaderboard_results.json",
+        "wrc2023_event_wLMCc2Vp1PncE55G_stage1_leaderboard_results.json": "wrc2023_event_wLMCc2Vp1PncE55G_stage1_leaderboard_results.json",
+        "wrc2023_event_wLMCc2Vp1PncE55G_stage2_leaderboard_results.json": "wrc2023_event_wLMCc2Vp1PncE55G_stage2_leaderboard_results.json",
+        "wrc2023_event_wLMCc2Vp1PncE55G_stage3_leaderboard_results.json": "wrc2023_event_wLMCc2Vp1PncE55G_stage3_leaderboard_results.json",
+        "wrc2023_event_wLMCc2Vp1PncE55G_stage4_leaderboard_results.json": "wrc2023_event_wLMCc2Vp1PncE55G_stage4_leaderboard_results.json",
+        "wrc2023_event_wLMCc2Vp1PncE55G_stage5_leaderboard_results.json": "wrc2023_event_wLMCc2Vp1PncE55G_stage5_leaderboard_results.json",
+        "wrc2023_event_wLMCc2Vp1PncE55G_stage6_leaderboard_results.json": "wrc2023_event_wLMCc2Vp1PncE55G_stage6_leaderboard_results.json",
+        "wrc2023_event_wLMCc2Vp1PncE55G_stage7_leaderboard_results.json": "wrc2023_event_wLMCc2Vp1PncE55G_stage7_leaderboard_results.json",
+        "wrc2023_event_wLMCc2Vp1PncE55G_stage8_leaderboard_results.json": "wrc2023_event_wLMCc2Vp1PncE55G_stage8_leaderboard_results.json",
+        "wrc2023_event_wLMCc2Vp1PncE55G_stage9_leaderboard_results.json": "wrc2023_event_wLMCc2Vp1PncE55G_stage9_leaderboard_results.json"
+      }
+    }
+  },
+  "Season 2": {
+    "S1600": {
+      "R1 Monte-Carlo": {
+        "wrc2023_event_5BFTjHtcyN8SvxT5F_stage1_leaderboard_results.json": "wrc2023_event_5BFTjHtcyN8SvxT5F_stage1_leaderboard_results.json",
+        "wrc2023_event_5BFTjHtcyN8SvxT5F_stage2_leaderboard_results.json": "wrc2023_event_5BFTjHtcyN8SvxT5F_stage2_leaderboard_results.json",
+        "wrc2023_event_5BFTjHtcyN8SvxT5F_stage3_leaderboard_results.json": "wrc2023_event_5BFTjHtcyN8SvxT5F_stage3_leaderboard_results.json",
+        "wrc2023_event_5BFTjHtcyN8SvxT5F_stage4_leaderboard_results.json": "wrc2023_event_5BFTjHtcyN8SvxT5F_stage4_leaderboard_results.json",
+        "wrc2023_event_5BFTjHtcyN8SvxT5F_stage5_leaderboard_results.json": "wrc2023_event_5BFTjHtcyN8SvxT5F_stage5_leaderboard_results.json",
+        "wrc2023_event_5BFTjHtcyN8SvxT5F_stage6_leaderboard_results.json": "wrc2023_event_5BFTjHtcyN8SvxT5F_stage6_leaderboard_results.json",
+        "wrc2023_event_5BFTjHtcyN8SvxT5F_stage7_leaderboard_results.json": "wrc2023_event_5BFTjHtcyN8SvxT5F_stage7_leaderboard_results.json",
+        "wrc2023_event_5BFTjHtcyN8SvxT5F_stage8_leaderboard_results.json": "wrc2023_event_5BFTjHtcyN8SvxT5F_stage8_leaderboard_results.json",
+        "wrc2023_event_5BFTjHtcyN8SvxT5F_stage9_leaderboard_results.json": "wrc2023_event_5BFTjHtcyN8SvxT5F_stage9_leaderboard_results.json"
+      },
+      "R2 Norway": {
+        "wrc2023_event_59yMJC61TXTkEZHpe_stage1_leaderboard_results.json": "wrc2023_event_59yMJC61TXTkEZHpe_stage1_leaderboard_results.json",
+        "wrc2023_event_59yMJC61TXTkEZHpe_stage2_leaderboard_results.json": "wrc2023_event_59yMJC61TXTkEZHpe_stage2_leaderboard_results.json",
+        "wrc2023_event_59yMJC61TXTkEZHpe_stage3_leaderboard_results.json": "wrc2023_event_59yMJC61TXTkEZHpe_stage3_leaderboard_results.json",
+        "wrc2023_event_59yMJC61TXTkEZHpe_stage4_leaderboard_results.json": "wrc2023_event_59yMJC61TXTkEZHpe_stage4_leaderboard_results.json",
+        "wrc2023_event_59yMJC61TXTkEZHpe_stage5_leaderboard_results.json": "wrc2023_event_59yMJC61TXTkEZHpe_stage5_leaderboard_results.json",
+        "wrc2023_event_59yMJC61TXTkEZHpe_stage6_leaderboard_results.json": "wrc2023_event_59yMJC61TXTkEZHpe_stage6_leaderboard_results.json",
+        "wrc2023_event_59yMJC61TXTkEZHpe_stage7_leaderboard_results.json": "wrc2023_event_59yMJC61TXTkEZHpe_stage7_leaderboard_results.json",
+        "wrc2023_event_59yMJC61TXTkEZHpe_stage8_leaderboard_results.json": "wrc2023_event_59yMJC61TXTkEZHpe_stage8_leaderboard_results.json",
+        "wrc2023_event_59yMJC61TXTkEZHpe_stage9_leaderboard_results.json": "wrc2023_event_59yMJC61TXTkEZHpe_stage9_leaderboard_results.json"
+      },
+      "R3 Kenya": {
+        "wrc2023_event_4xDNqPzodpwd64G6c_stage1_leaderboard_results.json": "wrc2023_event_4xDNqPzodpwd64G6c_stage1_leaderboard_results.json",
+        "wrc2023_event_4xDNqPzodpwd64G6c_stage2_leaderboard_results.json": "wrc2023_event_4xDNqPzodpwd64G6c_stage2_leaderboard_results.json",
+        "wrc2023_event_4xDNqPzodpwd64G6c_stage3_leaderboard_results.json": "wrc2023_event_4xDNqPzodpwd64G6c_stage3_leaderboard_results.json",
+        "wrc2023_event_4xDNqPzodpwd64G6c_stage4_leaderboard_results.json": "wrc2023_event_4xDNqPzodpwd64G6c_stage4_leaderboard_results.json",
+        "wrc2023_event_4xDNqPzodpwd64G6c_stage5_leaderboard_results.json": "wrc2023_event_4xDNqPzodpwd64G6c_stage5_leaderboard_results.json",
+        "wrc2023_event_4xDNqPzodpwd64G6c_stage6_leaderboard_results.json": "wrc2023_event_4xDNqPzodpwd64G6c_stage6_leaderboard_results.json",
+        "wrc2023_event_4xDNqPzodpwd64G6c_stage7_leaderboard_results.json": "wrc2023_event_4xDNqPzodpwd64G6c_stage7_leaderboard_results.json",
+        "wrc2023_event_4xDNqPzodpwd64G6c_stage8_leaderboard_results.json": "wrc2023_event_4xDNqPzodpwd64G6c_stage8_leaderboard_results.json",
+        "wrc2023_event_4xDNqPzodpwd64G6c_stage9_leaderboard_results.json": "wrc2023_event_4xDNqPzodpwd64G6c_stage9_leaderboard_results.json"
+      },
+      "R4 New Zealand": {
+        "wrc2023_event_ntw2WHyfq79JYp2S_stage1_leaderboard_results.json": "wrc2023_event_ntw2WHyfq79JYp2S_stage1_leaderboard_results.json",
+        "wrc2023_event_ntw2WHyfq79JYp2S_stage2_leaderboard_results.json": "wrc2023_event_ntw2WHyfq79JYp2S_stage2_leaderboard_results.json",
+        "wrc2023_event_ntw2WHyfq79JYp2S_stage3_leaderboard_results.json": "wrc2023_event_ntw2WHyfq79JYp2S_stage3_leaderboard_results.json",
+        "wrc2023_event_ntw2WHyfq79JYp2S_stage4_leaderboard_results.json": "wrc2023_event_ntw2WHyfq79JYp2S_stage4_leaderboard_results.json",
+        "wrc2023_event_ntw2WHyfq79JYp2S_stage5_leaderboard_results.json": "wrc2023_event_ntw2WHyfq79JYp2S_stage5_leaderboard_results.json",
+        "wrc2023_event_ntw2WHyfq79JYp2S_stage6_leaderboard_results.json": "wrc2023_event_ntw2WHyfq79JYp2S_stage6_leaderboard_results.json",
+        "wrc2023_event_ntw2WHyfq79JYp2S_stage7_leaderboard_results.json": "wrc2023_event_ntw2WHyfq79JYp2S_stage7_leaderboard_results.json",
+        "wrc2023_event_ntw2WHyfq79JYp2S_stage8_leaderboard_results.json": "wrc2023_event_ntw2WHyfq79JYp2S_stage8_leaderboard_results.json",
+        "wrc2023_event_ntw2WHyfq79JYp2S_stage9_leaderboard_results.json": "wrc2023_event_ntw2WHyfq79JYp2S_stage9_leaderboard_results.json"
+      },
+      "R5 Chile": {
+        "wrc2023_event_2H26L8G4SQ2hAvcoT_stage1_leaderboard_results.json": "wrc2023_event_2H26L8G4SQ2hAvcoT_stage1_leaderboard_results.json",
+        "wrc2023_event_2H26L8G4SQ2hAvcoT_stage2_leaderboard_results.json": "wrc2023_event_2H26L8G4SQ2hAvcoT_stage2_leaderboard_results.json",
+        "wrc2023_event_2H26L8G4SQ2hAvcoT_stage3_leaderboard_results.json": "wrc2023_event_2H26L8G4SQ2hAvcoT_stage3_leaderboard_results.json",
+        "wrc2023_event_2H26L8G4SQ2hAvcoT_stage4_leaderboard_results.json": "wrc2023_event_2H26L8G4SQ2hAvcoT_stage4_leaderboard_results.json",
+        "wrc2023_event_2H26L8G4SQ2hAvcoT_stage5_leaderboard_results.json": "wrc2023_event_2H26L8G4SQ2hAvcoT_stage5_leaderboard_results.json",
+        "wrc2023_event_2H26L8G4SQ2hAvcoT_stage6_leaderboard_results.json": "wrc2023_event_2H26L8G4SQ2hAvcoT_stage6_leaderboard_results.json",
+        "wrc2023_event_2H26L8G4SQ2hAvcoT_stage7_leaderboard_results.json": "wrc2023_event_2H26L8G4SQ2hAvcoT_stage7_leaderboard_results.json",
+        "wrc2023_event_2H26L8G4SQ2hAvcoT_stage8_leaderboard_results.json": "wrc2023_event_2H26L8G4SQ2hAvcoT_stage8_leaderboard_results.json"
+      },
+      "R6 Japan": {
+        "wrc2023_event_3NjdLmeHLmRzCHGvh_stage1_leaderboard_results.json": "wrc2023_event_3NjdLmeHLmRzCHGvh_stage1_leaderboard_results.json",
+        "wrc2023_event_3NjdLmeHLmRzCHGvh_stage2_leaderboard_results.json": "wrc2023_event_3NjdLmeHLmRzCHGvh_stage2_leaderboard_results.json",
+        "wrc2023_event_3NjdLmeHLmRzCHGvh_stage3_leaderboard_results.json": "wrc2023_event_3NjdLmeHLmRzCHGvh_stage3_leaderboard_results.json",
+        "wrc2023_event_3NjdLmeHLmRzCHGvh_stage4_leaderboard_results.json": "wrc2023_event_3NjdLmeHLmRzCHGvh_stage4_leaderboard_results.json",
+        "wrc2023_event_3NjdLmeHLmRzCHGvh_stage5_leaderboard_results.json": "wrc2023_event_3NjdLmeHLmRzCHGvh_stage5_leaderboard_results.json",
+        "wrc2023_event_3NjdLmeHLmRzCHGvh_stage6_leaderboard_results.json": "wrc2023_event_3NjdLmeHLmRzCHGvh_stage6_leaderboard_results.json",
+        "wrc2023_event_3NjdLmeHLmRzCHGvh_stage7_leaderboard_results.json": "wrc2023_event_3NjdLmeHLmRzCHGvh_stage7_leaderboard_results.json",
+        "wrc2023_event_3NjdLmeHLmRzCHGvh_stage8_leaderboard_results.json": "wrc2023_event_3NjdLmeHLmRzCHGvh_stage8_leaderboard_results.json",
+        "wrc2023_event_3NjdLmeHLmRzCHGvh_stage9_leaderboard_results.json": "wrc2023_event_3NjdLmeHLmRzCHGvh_stage9_leaderboard_results.json"
+      },
+      "R7 Greece": {
+        "wrc2023_event_ZrigmiKvBMjDFiaG_stage1_leaderboard_results.json": "wrc2023_event_ZrigmiKvBMjDFiaG_stage1_leaderboard_results.json",
+        "wrc2023_event_ZrigmiKvBMjDFiaG_stage2_leaderboard_results.json": "wrc2023_event_ZrigmiKvBMjDFiaG_stage2_leaderboard_results.json",
+        "wrc2023_event_ZrigmiKvBMjDFiaG_stage3_leaderboard_results.json": "wrc2023_event_ZrigmiKvBMjDFiaG_stage3_leaderboard_results.json",
+        "wrc2023_event_ZrigmiKvBMjDFiaG_stage4_leaderboard_results.json": "wrc2023_event_ZrigmiKvBMjDFiaG_stage4_leaderboard_results.json",
+        "wrc2023_event_ZrigmiKvBMjDFiaG_stage5_leaderboard_results.json": "wrc2023_event_ZrigmiKvBMjDFiaG_stage5_leaderboard_results.json",
+        "wrc2023_event_ZrigmiKvBMjDFiaG_stage6_leaderboard_results.json": "wrc2023_event_ZrigmiKvBMjDFiaG_stage6_leaderboard_results.json",
+        "wrc2023_event_ZrigmiKvBMjDFiaG_stage7_leaderboard_results.json": "wrc2023_event_ZrigmiKvBMjDFiaG_stage7_leaderboard_results.json",
+        "wrc2023_event_ZrigmiKvBMjDFiaG_stage8_leaderboard_results.json": "wrc2023_event_ZrigmiKvBMjDFiaG_stage8_leaderboard_results.json",
+        "wrc2023_event_ZrigmiKvBMjDFiaG_stage9_leaderboard_results.json": "wrc2023_event_ZrigmiKvBMjDFiaG_stage9_leaderboard_results.json"
+      }
+    }
+  },
+  "Season 3": {
+    "WRC 2017-2021": {
+      "R1 Monte-Carlo": {
+        "wrc2023_event_3sfgEVytSw5BnQuVY_stage1_leaderboard_results.json": "wrc2023_event_3sfgEVytSw5BnQuVY_stage1_leaderboard_results.json",
+        "wrc2023_event_3sfgEVytSw5BnQuVY_stage2_leaderboard_results.json": "wrc2023_event_3sfgEVytSw5BnQuVY_stage2_leaderboard_results.json",
+        "wrc2023_event_3sfgEVytSw5BnQuVY_stage3_leaderboard_results.json": "wrc2023_event_3sfgEVytSw5BnQuVY_stage3_leaderboard_results.json",
+        "wrc2023_event_3sfgEVytSw5BnQuVY_stage4_leaderboard_results.json": "wrc2023_event_3sfgEVytSw5BnQuVY_stage4_leaderboard_results.json",
+        "wrc2023_event_3sfgEVytSw5BnQuVY_stage5_leaderboard_results.json": "wrc2023_event_3sfgEVytSw5BnQuVY_stage5_leaderboard_results.json",
+        "wrc2023_event_3sfgEVytSw5BnQuVY_stage6_leaderboard_results.json": "wrc2023_event_3sfgEVytSw5BnQuVY_stage6_leaderboard_results.json",
+        "wrc2023_event_3sfgEVytSw5BnQuVY_stage7_leaderboard_results.json": "wrc2023_event_3sfgEVytSw5BnQuVY_stage7_leaderboard_results.json",
+        "wrc2023_event_3sfgEVytSw5BnQuVY_stage8_leaderboard_results.json": "wrc2023_event_3sfgEVytSw5BnQuVY_stage8_leaderboard_results.json"
+      },
+      "R2 Sweden": {
+        "wrc2023_event_2srZHLokumyxPaSKj_stage10_leaderboard_results.json": "wrc2023_event_2srZHLokumyxPaSKj_stage10_leaderboard_results.json",
+        "wrc2023_event_2srZHLokumyxPaSKj_stage1_leaderboard_results.json": "wrc2023_event_2srZHLokumyxPaSKj_stage1_leaderboard_results.json",
+        "wrc2023_event_2srZHLokumyxPaSKj_stage2_leaderboard_results.json": "wrc2023_event_2srZHLokumyxPaSKj_stage2_leaderboard_results.json",
+        "wrc2023_event_2srZHLokumyxPaSKj_stage3_leaderboard_results.json": "wrc2023_event_2srZHLokumyxPaSKj_stage3_leaderboard_results.json",
+        "wrc2023_event_2srZHLokumyxPaSKj_stage4_leaderboard_results.json": "wrc2023_event_2srZHLokumyxPaSKj_stage4_leaderboard_results.json",
+        "wrc2023_event_2srZHLokumyxPaSKj_stage5_leaderboard_results.json": "wrc2023_event_2srZHLokumyxPaSKj_stage5_leaderboard_results.json",
+        "wrc2023_event_2srZHLokumyxPaSKj_stage6_leaderboard_results.json": "wrc2023_event_2srZHLokumyxPaSKj_stage6_leaderboard_results.json",
+        "wrc2023_event_2srZHLokumyxPaSKj_stage7_leaderboard_results.json": "wrc2023_event_2srZHLokumyxPaSKj_stage7_leaderboard_results.json",
+        "wrc2023_event_2srZHLokumyxPaSKj_stage8_leaderboard_results.json": "wrc2023_event_2srZHLokumyxPaSKj_stage8_leaderboard_results.json",
+        "wrc2023_event_2srZHLokumyxPaSKj_stage9_leaderboard_results.json": "wrc2023_event_2srZHLokumyxPaSKj_stage9_leaderboard_results.json"
+      },
+      "R3 Mexico": {
+        "wrc2023_event_2FgHpQmDhnbxC7sJZ_stage1_leaderboard_results.json": "wrc2023_event_2FgHpQmDhnbxC7sJZ_stage1_leaderboard_results.json",
+        "wrc2023_event_2FgHpQmDhnbxC7sJZ_stage2_leaderboard_results.json": "wrc2023_event_2FgHpQmDhnbxC7sJZ_stage2_leaderboard_results.json",
+        "wrc2023_event_2FgHpQmDhnbxC7sJZ_stage3_leaderboard_results.json": "wrc2023_event_2FgHpQmDhnbxC7sJZ_stage3_leaderboard_results.json",
+        "wrc2023_event_2FgHpQmDhnbxC7sJZ_stage4_leaderboard_results.json": "wrc2023_event_2FgHpQmDhnbxC7sJZ_stage4_leaderboard_results.json",
+        "wrc2023_event_2FgHpQmDhnbxC7sJZ_stage5_leaderboard_results.json": "wrc2023_event_2FgHpQmDhnbxC7sJZ_stage5_leaderboard_results.json",
+        "wrc2023_event_2FgHpQmDhnbxC7sJZ_stage6_leaderboard_results.json": "wrc2023_event_2FgHpQmDhnbxC7sJZ_stage6_leaderboard_results.json"
+      },
+      "R4 Tour de Corse": {
+        "wrc2023_event_48QB8uDkmNSYC1Kxj_stage1_leaderboard_results.json": "wrc2023_event_48QB8uDkmNSYC1Kxj_stage1_leaderboard_results.json",
+        "wrc2023_event_48QB8uDkmNSYC1Kxj_stage2_leaderboard_results.json": "wrc2023_event_48QB8uDkmNSYC1Kxj_stage2_leaderboard_results.json",
+        "wrc2023_event_48QB8uDkmNSYC1Kxj_stage3_leaderboard_results.json": "wrc2023_event_48QB8uDkmNSYC1Kxj_stage3_leaderboard_results.json",
+        "wrc2023_event_48QB8uDkmNSYC1Kxj_stage4_leaderboard_results.json": "wrc2023_event_48QB8uDkmNSYC1Kxj_stage4_leaderboard_results.json",
+        "wrc2023_event_48QB8uDkmNSYC1Kxj_stage5_leaderboard_results.json": "wrc2023_event_48QB8uDkmNSYC1Kxj_stage5_leaderboard_results.json",
+        "wrc2023_event_48QB8uDkmNSYC1Kxj_stage6_leaderboard_results.json": "wrc2023_event_48QB8uDkmNSYC1Kxj_stage6_leaderboard_results.json",
+        "wrc2023_event_48QB8uDkmNSYC1Kxj_stage7_leaderboard_results.json": "wrc2023_event_48QB8uDkmNSYC1Kxj_stage7_leaderboard_results.json",
+        "wrc2023_event_48QB8uDkmNSYC1Kxj_stage8_leaderboard_results.json": "wrc2023_event_48QB8uDkmNSYC1Kxj_stage8_leaderboard_results.json"
+      },
+      "R5 Kenya": {
+        "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage1_leaderboard_results.json": "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage1_leaderboard_results.json",
+        "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage2_leaderboard_results.json": "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage2_leaderboard_results.json",
+        "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage3_leaderboard_results.json": "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage3_leaderboard_results.json",
+        "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage4_leaderboard_results.json": "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage4_leaderboard_results.json",
+        "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage5_leaderboard_results.json": "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage5_leaderboard_results.json",
+        "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage6_leaderboard_results.json": "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage6_leaderboard_results.json",
+        "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage7_leaderboard_results.json": "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage7_leaderboard_results.json",
+        "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage8_leaderboard_results.json": "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage8_leaderboard_results.json",
+        "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage9_leaderboard_results.json": "wrc2023_event_5gNmuQb9u5Hn2AU1y_stage9_leaderboard_results.json"
+      },
+      "R6 Sardegna": {
+        "wrc2023_event_yBHuQrFSiKSCJSuP_stage1_leaderboard_results.json": "wrc2023_event_yBHuQrFSiKSCJSuP_stage1_leaderboard_results.json",
+        "wrc2023_event_yBHuQrFSiKSCJSuP_stage2_leaderboard_results.json": "wrc2023_event_yBHuQrFSiKSCJSuP_stage2_leaderboard_results.json",
+        "wrc2023_event_yBHuQrFSiKSCJSuP_stage3_leaderboard_results.json": "wrc2023_event_yBHuQrFSiKSCJSuP_stage3_leaderboard_results.json",
+        "wrc2023_event_yBHuQrFSiKSCJSuP_stage4_leaderboard_results.json": "wrc2023_event_yBHuQrFSiKSCJSuP_stage4_leaderboard_results.json",
+        "wrc2023_event_yBHuQrFSiKSCJSuP_stage5_leaderboard_results.json": "wrc2023_event_yBHuQrFSiKSCJSuP_stage5_leaderboard_results.json",
+        "wrc2023_event_yBHuQrFSiKSCJSuP_stage6_leaderboard_results.json": "wrc2023_event_yBHuQrFSiKSCJSuP_stage6_leaderboard_results.json"
+      },
+      "R7 Germany": {
+        "wrc2023_event_giaQkYxXcPF5stqk_stage1_leaderboard_results.json": "wrc2023_event_giaQkYxXcPF5stqk_stage1_leaderboard_results.json",
+        "wrc2023_event_giaQkYxXcPF5stqk_stage2_leaderboard_results.json": "wrc2023_event_giaQkYxXcPF5stqk_stage2_leaderboard_results.json",
+        "wrc2023_event_giaQkYxXcPF5stqk_stage3_leaderboard_results.json": "wrc2023_event_giaQkYxXcPF5stqk_stage3_leaderboard_results.json",
+        "wrc2023_event_giaQkYxXcPF5stqk_stage4_leaderboard_results.json": "wrc2023_event_giaQkYxXcPF5stqk_stage4_leaderboard_results.json",
+        "wrc2023_event_giaQkYxXcPF5stqk_stage5_leaderboard_results.json": "wrc2023_event_giaQkYxXcPF5stqk_stage5_leaderboard_results.json",
+        "wrc2023_event_giaQkYxXcPF5stqk_stage6_leaderboard_results.json": "wrc2023_event_giaQkYxXcPF5stqk_stage6_leaderboard_results.json",
+        "wrc2023_event_giaQkYxXcPF5stqk_stage7_leaderboard_results.json": "wrc2023_event_giaQkYxXcPF5stqk_stage7_leaderboard_results.json"
+      },
+      "R8 Spain": {
+        "wrc2023_event_2jzZDYxh1jP2L92Zs_stage1_leaderboard_results.json": "wrc2023_event_2jzZDYxh1jP2L92Zs_stage1_leaderboard_results.json",
+        "wrc2023_event_2jzZDYxh1jP2L92Zs_stage2_leaderboard_results.json": "wrc2023_event_2jzZDYxh1jP2L92Zs_stage2_leaderboard_results.json",
+        "wrc2023_event_2jzZDYxh1jP2L92Zs_stage3_leaderboard_results.json": "wrc2023_event_2jzZDYxh1jP2L92Zs_stage3_leaderboard_results.json",
+        "wrc2023_event_2jzZDYxh1jP2L92Zs_stage4_leaderboard_results.json": "wrc2023_event_2jzZDYxh1jP2L92Zs_stage4_leaderboard_results.json",
+        "wrc2023_event_2jzZDYxh1jP2L92Zs_stage5_leaderboard_results.json": "wrc2023_event_2jzZDYxh1jP2L92Zs_stage5_leaderboard_results.json",
+        "wrc2023_event_2jzZDYxh1jP2L92Zs_stage6_leaderboard_results.json": "wrc2023_event_2jzZDYxh1jP2L92Zs_stage6_leaderboard_results.json",
+        "wrc2023_event_2jzZDYxh1jP2L92Zs_stage7_leaderboard_results.json": "wrc2023_event_2jzZDYxh1jP2L92Zs_stage7_leaderboard_results.json",
+        "wrc2023_event_2jzZDYxh1jP2L92Zs_stage8_leaderboard_results.json": "wrc2023_event_2jzZDYxh1jP2L92Zs_stage8_leaderboard_results.json"
+      },
+      "R9 Indonesia": {
+        "wrc2023_event_43K3mWYAA936e38gs_stage1_leaderboard_results.json": "wrc2023_event_43K3mWYAA936e38gs_stage1_leaderboard_results.json",
+        "wrc2023_event_43K3mWYAA936e38gs_stage2_leaderboard_results.json": "wrc2023_event_43K3mWYAA936e38gs_stage2_leaderboard_results.json",
+        "wrc2023_event_43K3mWYAA936e38gs_stage3_leaderboard_results.json": "wrc2023_event_43K3mWYAA936e38gs_stage3_leaderboard_results.json",
+        "wrc2023_event_43K3mWYAA936e38gs_stage4_leaderboard_results.json": "wrc2023_event_43K3mWYAA936e38gs_stage4_leaderboard_results.json",
+        "wrc2023_event_43K3mWYAA936e38gs_stage5_leaderboard_results.json": "wrc2023_event_43K3mWYAA936e38gs_stage5_leaderboard_results.json",
+        "wrc2023_event_43K3mWYAA936e38gs_stage6_leaderboard_results.json": "wrc2023_event_43K3mWYAA936e38gs_stage6_leaderboard_results.json",
+        "wrc2023_event_43K3mWYAA936e38gs_stage7_leaderboard_results.json": "wrc2023_event_43K3mWYAA936e38gs_stage7_leaderboard_results.json",
+        "wrc2023_event_43K3mWYAA936e38gs_stage8_leaderboard_results.json": "wrc2023_event_43K3mWYAA936e38gs_stage8_leaderboard_results.json"
+      }
+    }
+  },
+  "Season 4": {
+    "WRC 1997-2011": {
+      "R1 Monte-Carlo": {
+        "wrc2023_event_3hkVGkGNK5gBobMrV_stage1_leaderboard_results.json": "wrc2023_event_3hkVGkGNK5gBobMrV_stage1_leaderboard_results.json",
+        "wrc2023_event_3hkVGkGNK5gBobMrV_stage2_leaderboard_results.json": "wrc2023_event_3hkVGkGNK5gBobMrV_stage2_leaderboard_results.json",
+        "wrc2023_event_3hkVGkGNK5gBobMrV_stage3_leaderboard_results.json": "wrc2023_event_3hkVGkGNK5gBobMrV_stage3_leaderboard_results.json",
+        "wrc2023_event_3hkVGkGNK5gBobMrV_stage4_leaderboard_results.json": "wrc2023_event_3hkVGkGNK5gBobMrV_stage4_leaderboard_results.json",
+        "wrc2023_event_3hkVGkGNK5gBobMrV_stage5_leaderboard_results.json": "wrc2023_event_3hkVGkGNK5gBobMrV_stage5_leaderboard_results.json",
+        "wrc2023_event_3hkVGkGNK5gBobMrV_stage6_leaderboard_results.json": "wrc2023_event_3hkVGkGNK5gBobMrV_stage6_leaderboard_results.json",
+        "wrc2023_event_3hkVGkGNK5gBobMrV_stage7_leaderboard_results.json": "wrc2023_event_3hkVGkGNK5gBobMrV_stage7_leaderboard_results.json"
+      },
+      "R10 Spain": {
+        "wrc2023_event_3ht3S6TcFq7EL3epN_stage1_leaderboard_results.json": "wrc2023_event_3ht3S6TcFq7EL3epN_stage1_leaderboard_results.json",
+        "wrc2023_event_3ht3S6TcFq7EL3epN_stage2_leaderboard_results.json": "wrc2023_event_3ht3S6TcFq7EL3epN_stage2_leaderboard_results.json",
+        "wrc2023_event_3ht3S6TcFq7EL3epN_stage3_leaderboard_results.json": "wrc2023_event_3ht3S6TcFq7EL3epN_stage3_leaderboard_results.json",
+        "wrc2023_event_3ht3S6TcFq7EL3epN_stage4_leaderboard_results.json": "wrc2023_event_3ht3S6TcFq7EL3epN_stage4_leaderboard_results.json",
+        "wrc2023_event_3ht3S6TcFq7EL3epN_stage5_leaderboard_results.json": "wrc2023_event_3ht3S6TcFq7EL3epN_stage5_leaderboard_results.json",
+        "wrc2023_event_3ht3S6TcFq7EL3epN_stage6_leaderboard_results.json": "wrc2023_event_3ht3S6TcFq7EL3epN_stage6_leaderboard_results.json",
+        "wrc2023_event_3ht3S6TcFq7EL3epN_stage7_leaderboard_results.json": "wrc2023_event_3ht3S6TcFq7EL3epN_stage7_leaderboard_results.json"
+      },
+      "R2 Sweden": {
+        "wrc2023_event_4XvJmEjA56YKz4TW1_stage10_leaderboard_results.json": "wrc2023_event_4XvJmEjA56YKz4TW1_stage10_leaderboard_results.json",
+        "wrc2023_event_4XvJmEjA56YKz4TW1_stage1_leaderboard_results.json": "wrc2023_event_4XvJmEjA56YKz4TW1_stage1_leaderboard_results.json",
+        "wrc2023_event_4XvJmEjA56YKz4TW1_stage2_leaderboard_results.json": "wrc2023_event_4XvJmEjA56YKz4TW1_stage2_leaderboard_results.json",
+        "wrc2023_event_4XvJmEjA56YKz4TW1_stage3_leaderboard_results.json": "wrc2023_event_4XvJmEjA56YKz4TW1_stage3_leaderboard_results.json",
+        "wrc2023_event_4XvJmEjA56YKz4TW1_stage4_leaderboard_results.json": "wrc2023_event_4XvJmEjA56YKz4TW1_stage4_leaderboard_results.json",
+        "wrc2023_event_4XvJmEjA56YKz4TW1_stage5_leaderboard_results.json": "wrc2023_event_4XvJmEjA56YKz4TW1_stage5_leaderboard_results.json",
+        "wrc2023_event_4XvJmEjA56YKz4TW1_stage6_leaderboard_results.json": "wrc2023_event_4XvJmEjA56YKz4TW1_stage6_leaderboard_results.json",
+        "wrc2023_event_4XvJmEjA56YKz4TW1_stage7_leaderboard_results.json": "wrc2023_event_4XvJmEjA56YKz4TW1_stage7_leaderboard_results.json",
+        "wrc2023_event_4XvJmEjA56YKz4TW1_stage8_leaderboard_results.json": "wrc2023_event_4XvJmEjA56YKz4TW1_stage8_leaderboard_results.json",
+        "wrc2023_event_4XvJmEjA56YKz4TW1_stage9_leaderboard_results.json": "wrc2023_event_4XvJmEjA56YKz4TW1_stage9_leaderboard_results.json"
+      },
+      "R3 Mexico": {
+        "wrc2023_event_4YzWFymUTCZzgcrbB_stage1_leaderboard_results.json": "wrc2023_event_4YzWFymUTCZzgcrbB_stage1_leaderboard_results.json",
+        "wrc2023_event_4YzWFymUTCZzgcrbB_stage2_leaderboard_results.json": "wrc2023_event_4YzWFymUTCZzgcrbB_stage2_leaderboard_results.json",
+        "wrc2023_event_4YzWFymUTCZzgcrbB_stage3_leaderboard_results.json": "wrc2023_event_4YzWFymUTCZzgcrbB_stage3_leaderboard_results.json",
+        "wrc2023_event_4YzWFymUTCZzgcrbB_stage4_leaderboard_results.json": "wrc2023_event_4YzWFymUTCZzgcrbB_stage4_leaderboard_results.json",
+        "wrc2023_event_4YzWFymUTCZzgcrbB_stage5_leaderboard_results.json": "wrc2023_event_4YzWFymUTCZzgcrbB_stage5_leaderboard_results.json",
+        "wrc2023_event_4YzWFymUTCZzgcrbB_stage6_leaderboard_results.json": "wrc2023_event_4YzWFymUTCZzgcrbB_stage6_leaderboard_results.json"
+      },
+      "R4 New Zealand": {
+        "wrc2023_event_3hmGqkTumFAdeMtqn_stage10_leaderboard_results.json": "wrc2023_event_3hmGqkTumFAdeMtqn_stage10_leaderboard_results.json",
+        "wrc2023_event_3hmGqkTumFAdeMtqn_stage1_leaderboard_results.json": "wrc2023_event_3hmGqkTumFAdeMtqn_stage1_leaderboard_results.json",
+        "wrc2023_event_3hmGqkTumFAdeMtqn_stage2_leaderboard_results.json": "wrc2023_event_3hmGqkTumFAdeMtqn_stage2_leaderboard_results.json",
+        "wrc2023_event_3hmGqkTumFAdeMtqn_stage3_leaderboard_results.json": "wrc2023_event_3hmGqkTumFAdeMtqn_stage3_leaderboard_results.json",
+        "wrc2023_event_3hmGqkTumFAdeMtqn_stage4_leaderboard_results.json": "wrc2023_event_3hmGqkTumFAdeMtqn_stage4_leaderboard_results.json",
+        "wrc2023_event_3hmGqkTumFAdeMtqn_stage5_leaderboard_results.json": "wrc2023_event_3hmGqkTumFAdeMtqn_stage5_leaderboard_results.json",
+        "wrc2023_event_3hmGqkTumFAdeMtqn_stage6_leaderboard_results.json": "wrc2023_event_3hmGqkTumFAdeMtqn_stage6_leaderboard_results.json",
+        "wrc2023_event_3hmGqkTumFAdeMtqn_stage7_leaderboard_results.json": "wrc2023_event_3hmGqkTumFAdeMtqn_stage7_leaderboard_results.json",
+        "wrc2023_event_3hmGqkTumFAdeMtqn_stage8_leaderboard_results.json": "wrc2023_event_3hmGqkTumFAdeMtqn_stage8_leaderboard_results.json",
+        "wrc2023_event_3hmGqkTumFAdeMtqn_stage9_leaderboard_results.json": "wrc2023_event_3hmGqkTumFAdeMtqn_stage9_leaderboard_results.json"
+      },
+      "R5 Greece": {
+        "wrc2023_event_39z2QnBGq3DgUpLNx_stage1_leaderboard_results.json": "wrc2023_event_39z2QnBGq3DgUpLNx_stage1_leaderboard_results.json",
+        "wrc2023_event_39z2QnBGq3DgUpLNx_stage2_leaderboard_results.json": "wrc2023_event_39z2QnBGq3DgUpLNx_stage2_leaderboard_results.json",
+        "wrc2023_event_39z2QnBGq3DgUpLNx_stage3_leaderboard_results.json": "wrc2023_event_39z2QnBGq3DgUpLNx_stage3_leaderboard_results.json",
+        "wrc2023_event_39z2QnBGq3DgUpLNx_stage4_leaderboard_results.json": "wrc2023_event_39z2QnBGq3DgUpLNx_stage4_leaderboard_results.json",
+        "wrc2023_event_39z2QnBGq3DgUpLNx_stage5_leaderboard_results.json": "wrc2023_event_39z2QnBGq3DgUpLNx_stage5_leaderboard_results.json",
+        "wrc2023_event_39z2QnBGq3DgUpLNx_stage6_leaderboard_results.json": "wrc2023_event_39z2QnBGq3DgUpLNx_stage6_leaderboard_results.json"
+      },
+      "R6 Finland": {
+        "wrc2023_event_3zQnnTXcFVXMqBVb9_stage1_leaderboard_results.json": "wrc2023_event_3zQnnTXcFVXMqBVb9_stage1_leaderboard_results.json",
+        "wrc2023_event_3zQnnTXcFVXMqBVb9_stage2_leaderboard_results.json": "wrc2023_event_3zQnnTXcFVXMqBVb9_stage2_leaderboard_results.json",
+        "wrc2023_event_3zQnnTXcFVXMqBVb9_stage3_leaderboard_results.json": "wrc2023_event_3zQnnTXcFVXMqBVb9_stage3_leaderboard_results.json",
+        "wrc2023_event_3zQnnTXcFVXMqBVb9_stage4_leaderboard_results.json": "wrc2023_event_3zQnnTXcFVXMqBVb9_stage4_leaderboard_results.json",
+        "wrc2023_event_3zQnnTXcFVXMqBVb9_stage5_leaderboard_results.json": "wrc2023_event_3zQnnTXcFVXMqBVb9_stage5_leaderboard_results.json",
+        "wrc2023_event_3zQnnTXcFVXMqBVb9_stage6_leaderboard_results.json": "wrc2023_event_3zQnnTXcFVXMqBVb9_stage6_leaderboard_results.json",
+        "wrc2023_event_3zQnnTXcFVXMqBVb9_stage7_leaderboard_results.json": "wrc2023_event_3zQnnTXcFVXMqBVb9_stage7_leaderboard_results.json",
+        "wrc2023_event_3zQnnTXcFVXMqBVb9_stage8_leaderboard_results.json": "wrc2023_event_3zQnnTXcFVXMqBVb9_stage8_leaderboard_results.json"
+      },
+      "R7 Japan": {
+        "wrc2023_event_3ux6Jqyph4UoKJzpD_stage1_leaderboard_results.json": "wrc2023_event_3ux6Jqyph4UoKJzpD_stage1_leaderboard_results.json",
+        "wrc2023_event_3ux6Jqyph4UoKJzpD_stage2_leaderboard_results.json": "wrc2023_event_3ux6Jqyph4UoKJzpD_stage2_leaderboard_results.json",
+        "wrc2023_event_3ux6Jqyph4UoKJzpD_stage3_leaderboard_results.json": "wrc2023_event_3ux6Jqyph4UoKJzpD_stage3_leaderboard_results.json",
+        "wrc2023_event_3ux6Jqyph4UoKJzpD_stage4_leaderboard_results.json": "wrc2023_event_3ux6Jqyph4UoKJzpD_stage4_leaderboard_results.json",
+        "wrc2023_event_3ux6Jqyph4UoKJzpD_stage5_leaderboard_results.json": "wrc2023_event_3ux6Jqyph4UoKJzpD_stage5_leaderboard_results.json"
+      },
+      "R8 Sardegna": {
+        "wrc2023_event_5bWdiTc3y56J7iKx8_stage1_leaderboard_results.json": "wrc2023_event_5bWdiTc3y56J7iKx8_stage1_leaderboard_results.json",
+        "wrc2023_event_5bWdiTc3y56J7iKx8_stage2_leaderboard_results.json": "wrc2023_event_5bWdiTc3y56J7iKx8_stage2_leaderboard_results.json",
+        "wrc2023_event_5bWdiTc3y56J7iKx8_stage3_leaderboard_results.json": "wrc2023_event_5bWdiTc3y56J7iKx8_stage3_leaderboard_results.json",
+        "wrc2023_event_5bWdiTc3y56J7iKx8_stage4_leaderboard_results.json": "wrc2023_event_5bWdiTc3y56J7iKx8_stage4_leaderboard_results.json",
+        "wrc2023_event_5bWdiTc3y56J7iKx8_stage5_leaderboard_results.json": "wrc2023_event_5bWdiTc3y56J7iKx8_stage5_leaderboard_results.json",
+        "wrc2023_event_5bWdiTc3y56J7iKx8_stage6_leaderboard_results.json": "wrc2023_event_5bWdiTc3y56J7iKx8_stage6_leaderboard_results.json",
+        "wrc2023_event_5bWdiTc3y56J7iKx8_stage7_leaderboard_results.json": "wrc2023_event_5bWdiTc3y56J7iKx8_stage7_leaderboard_results.json"
+      },
+      "R9 Tour de Corse": {
+        "wrc2023_event_22yxWoypNm4E6mUH5_stage1_leaderboard_results.json": "wrc2023_event_22yxWoypNm4E6mUH5_stage1_leaderboard_results.json",
+        "wrc2023_event_22yxWoypNm4E6mUH5_stage2_leaderboard_results.json": "wrc2023_event_22yxWoypNm4E6mUH5_stage2_leaderboard_results.json",
+        "wrc2023_event_22yxWoypNm4E6mUH5_stage3_leaderboard_results.json": "wrc2023_event_22yxWoypNm4E6mUH5_stage3_leaderboard_results.json",
+        "wrc2023_event_22yxWoypNm4E6mUH5_stage4_leaderboard_results.json": "wrc2023_event_22yxWoypNm4E6mUH5_stage4_leaderboard_results.json",
+        "wrc2023_event_22yxWoypNm4E6mUH5_stage5_leaderboard_results.json": "wrc2023_event_22yxWoypNm4E6mUH5_stage5_leaderboard_results.json",
+        "wrc2023_event_22yxWoypNm4E6mUH5_stage6_leaderboard_results.json": "wrc2023_event_22yxWoypNm4E6mUH5_stage6_leaderboard_results.json",
+        "wrc2023_event_22yxWoypNm4E6mUH5_stage7_leaderboard_results.json": "wrc2023_event_22yxWoypNm4E6mUH5_stage7_leaderboard_results.json"
+      }
+    }
+  },
+  "Season 5": {
+    "JWRC": {
+      "R1 Monte-Carlo": {
+        "wrc2023_event_2T4D8o5oFNRV44E5Q_stage1_leaderboard_results.json": "wrc2023_event_2T4D8o5oFNRV44E5Q_stage1_leaderboard_results.json",
+        "wrc2023_event_2T4D8o5oFNRV44E5Q_stage2_leaderboard_results.json": "wrc2023_event_2T4D8o5oFNRV44E5Q_stage2_leaderboard_results.json",
+        "wrc2023_event_2T4D8o5oFNRV44E5Q_stage3_leaderboard_results.json": "wrc2023_event_2T4D8o5oFNRV44E5Q_stage3_leaderboard_results.json",
+        "wrc2023_event_2T4D8o5oFNRV44E5Q_stage4_leaderboard_results.json": "wrc2023_event_2T4D8o5oFNRV44E5Q_stage4_leaderboard_results.json",
+        "wrc2023_event_2T4D8o5oFNRV44E5Q_stage5_leaderboard_results.json": "wrc2023_event_2T4D8o5oFNRV44E5Q_stage5_leaderboard_results.json",
+        "wrc2023_event_2T4D8o5oFNRV44E5Q_stage6_leaderboard_results.json": "wrc2023_event_2T4D8o5oFNRV44E5Q_stage6_leaderboard_results.json",
+        "wrc2023_event_2T4D8o5oFNRV44E5Q_stage7_leaderboard_results.json": "wrc2023_event_2T4D8o5oFNRV44E5Q_stage7_leaderboard_results.json",
+        "wrc2023_event_2T4D8o5oFNRV44E5Q_stage8_leaderboard_results.json": "wrc2023_event_2T4D8o5oFNRV44E5Q_stage8_leaderboard_results.json"
+      }
+    },
+    "WRC2": {
+      "R1 Monte-Carlo": {
+        "wrc2023_event_2AKVRjFje64wqcr9v_stage1_leaderboard_results(1).json": "wrc2023_event_2AKVRjFje64wqcr9v_stage1_leaderboard_results(1).json",
+        "wrc2023_event_2AKVRjFje64wqcr9v_stage2_leaderboard_results(1).json": "wrc2023_event_2AKVRjFje64wqcr9v_stage2_leaderboard_results(1).json",
+        "wrc2023_event_2AKVRjFje64wqcr9v_stage3_leaderboard_results(1).json": "wrc2023_event_2AKVRjFje64wqcr9v_stage3_leaderboard_results(1).json",
+        "wrc2023_event_2AKVRjFje64wqcr9v_stage4_leaderboard_results(1).json": "wrc2023_event_2AKVRjFje64wqcr9v_stage4_leaderboard_results(1).json",
+        "wrc2023_event_2AKVRjFje64wqcr9v_stage5_leaderboard_results(1).json": "wrc2023_event_2AKVRjFje64wqcr9v_stage5_leaderboard_results(1).json",
+        "wrc2023_event_2AKVRjFje64wqcr9v_stage6_leaderboard_results(1).json": "wrc2023_event_2AKVRjFje64wqcr9v_stage6_leaderboard_results(1).json",
+        "wrc2023_event_2AKVRjFje64wqcr9v_stage7_leaderboard_results(1).json": "wrc2023_event_2AKVRjFje64wqcr9v_stage7_leaderboard_results(1).json",
+        "wrc2023_event_2AKVRjFje64wqcr9v_stage8_leaderboard_results(1).json": "wrc2023_event_2AKVRjFje64wqcr9v_stage8_leaderboard_results(1).json"
+      }
+    }
+  }
+}
