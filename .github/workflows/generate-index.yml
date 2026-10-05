@@ -1,48 +1,74 @@
-name: Auto-Generate Results Index
+name: Generate Results Index
+
 on:
-  push:
-    paths:
-      - 'Ten10_Motorsports_WRC_Results/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate JSON Index
         run: |
-          node -e "
+          node <<'NODE'
           const fs = require('fs');
           const path = require('path');
+
           const rootDir = './Ten10_Motorsports_WRC_Results';
-          
+          const indexFile = path.join(rootDir, 'index.json');
+
           function buildTree(dir) {
             const result = {};
-            const list = fs.readdirSync(dir);
-            list.forEach(file => {
-              const filePath = path.join(dir, file);
-              const stat = fs.statSync(filePath);
-              if (stat.isDirectory()) {
-                result[file] = buildTree(filePath);
-              } else if (file.endsWith('.json') && file !== 'index.json') {
-                result[file] = file;
+            const entries = fs.readdirSync(dir, { withFileTypes: true });
+
+            entries.forEach(entry => {
+              if (entry.name === 'index.json') return;
+
+              const fullPath = path.join(dir, entry.name);
+
+              if (entry.isDirectory()) {
+                result[entry.name] = buildTree(fullPath);
+              } else if (entry.name.toLowerCase().endsWith('.json')) {
+                result[entry.name] = entry.name;
               }
             });
+
             return result;
           }
-          
-          if (fs.existsSync(rootDir)) {
-            const tree = buildTree(rootDir);
-            fs.writeFileSync('./Ten10_Motorsports_WRC_Results/index.json', JSON.stringify(tree, null, 2));
+
+          if (!fs.existsSync(rootDir)) {
+            throw new Error(`Results root folder not found: ${rootDir}`);
           }
-          "
+
+          const tree = buildTree(rootDir);
+
+          fs.writeFileSync(
+            indexFile,
+            JSON.stringify(tree, null, 2) + '\n',
+            'utf8'
+          );
+
+          console.log(JSON.stringify(tree, null, 2));
+          NODE
 
       - name: Commit and Push Index
         run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'actions@github.com'
-          git add ./Ten10_Motorsports_WRC_Results/index.json
-          git commit -m "Automated update to results index [skip ci]" || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Ten10_Motorsports_WRC_Results/index.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to index.json."
+            exit 0
+          fi
+
+          git commit -m "Update results index"
           git push
