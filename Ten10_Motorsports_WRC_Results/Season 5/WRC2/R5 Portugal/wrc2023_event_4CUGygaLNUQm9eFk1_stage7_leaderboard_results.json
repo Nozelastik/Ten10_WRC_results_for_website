@@ -1,0 +1,182 @@
+[
+  {
+    "Rank":1,
+    "DisplayName":"StoryVS_TTV",
+    "Vehicle":"Hyundai i20 N Rally2",
+    "Time":"00:05:07.9120000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:00",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":2,
+    "DisplayName":"GTI_1990",
+    "Vehicle":"Ford Fiesta Rally2",
+    "Time":"00:05:16.7000000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:08.7880000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":3,
+    "DisplayName":"Simonayy66",
+    "Vehicle":"Ford Fiesta Rally2",
+    "Time":"00:05:17.4640000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:09.5520000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":4,
+    "DisplayName":"pr0Gamer346",
+    "Vehicle":"\u0160KODA Fabia Rally2 Evo",
+    "Time":"00:05:17.5920000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:09.6800000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":5,
+    "DisplayName":"Tuinboon27",
+    "Vehicle":"Citro\u00ebn C3 Rally2",
+    "Time":"00:05:21.5440000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:13.6320000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":6,
+    "DisplayName":"mk6pinnock",
+    "Vehicle":"\u0160KODA Fabia Rally2 Evo",
+    "Time":"00:05:25.7990000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:17.8870000",
+    "Platform":"EA",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":7,
+    "DisplayName":"Janeman13",
+    "Vehicle":"Citro\u00ebn C3 Rally2",
+    "Time":"00:05:26.9980000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:19.0860000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":8,
+    "DisplayName":"dannyram2025",
+    "Vehicle":"Hyundai i20 N Rally2",
+    "Time":"00:05:27.1190000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:19.2070000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":9,
+    "DisplayName":"speeedhunterr",
+    "Vehicle":"Hyundai i20 N Rally2",
+    "Time":"00:05:27.3210000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:19.4090000",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":10,
+    "DisplayName":"SWAD42",
+    "Vehicle":"\u0160KODA Fabia Rally2 Evo",
+    "Time":"00:05:28.9310000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:21.0190000",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":11,
+    "DisplayName":"Colesy3456",
+    "Vehicle":"Hyundai i20 N Rally2",
+    "Time":"00:05:31.1830000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:23.2710000",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":12,
+    "DisplayName":"fruzi_m8",
+    "Vehicle":"\u0160KODA Fabia Rally2 Evo",
+    "Time":"00:05:32.0050000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:24.0930000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":13,
+    "DisplayName":"WestQuma",
+    "Vehicle":"Hyundai i20 N Rally2",
+    "Time":"00:05:35.1970000",
+    "TimePenalty":"00:00:00",
+    "DifferenceToFirst":"00:00:27.2850000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":14,
+    "DisplayName":"karutapja654",
+    "Vehicle":"Citro\u00ebn C3 Rally2",
+    "Time":"00:05:45.8850000",
+    "TimePenalty":"00:00:05",
+    "DifferenceToFirst":"00:00:37.9730000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":15,
+    "DisplayName":"Schram45",
+    "Vehicle":"Ford Fiesta Rally2",
+    "Time":"00:06:26.8560000",
+    "TimePenalty":"00:00:22",
+    "DifferenceToFirst":"00:01:18.9440000",
+    "Platform":"PSN",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":16,
+    "DisplayName":"Cruel971",
+    "Vehicle":"Citro\u00ebn C3 Rally2",
+    "Time":"00:06:44.4630000",
+    "TimePenalty":"00:00:08",
+    "DifferenceToFirst":"00:01:36.5510000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":17,
+    "DisplayName":"Macaroni-DogYT",
+    "Vehicle":"\u0160KODA Fabia Rally2 Evo",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:10:52.0880000",
+    "Platform":"STEAM",
+    "Unnamed: 7":null
+  },
+  {
+    "Rank":18,
+    "DisplayName":"stjuudents",
+    "Vehicle":"\u0160KODA Fabia Rally2 Evo",
+    "Time":"00:16:00",
+    "TimePenalty":"00:16:00",
+    "DifferenceToFirst":"00:10:52.0880000",
+    "Platform":"XBOX",
+    "Unnamed: 7":null
+  }
+]
